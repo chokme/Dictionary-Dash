@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <spring.version>4.2.6.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <spring.security.version>3.2.0.RC1</spring.security.version>
         <fully.qualified.main.class>com.local.mez.dictionarydash.ShortestWordTransformationApp</fully.qualified.main.class>
     </properties>
